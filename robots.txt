@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ley4va.haybaleman.co.nz/sitemap.xml
